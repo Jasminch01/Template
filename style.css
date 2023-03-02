@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    z-index: 1;
+    box-shadow: 5px 5px 10px rgba(32, 32, 32, 0.129);
+}
+.profile-section{
+    padding: 10rem 0rem;
+}
+.service-section{
+    background-color: rgba(128, 128, 128, 0.139);
+}
